@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1628764324 source:c:\users\anyalogbu henry\desktop\mathequationsolver\main.cpp
+	<iostream>
+	"ok.h"
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1628765194 c:\users\anyalogbu henry\desktop\mathequationsolver\ok.h
+
+1628686842 source:c:\users\anyalogbu henry\desktop\mathequationsolver\quadraticequation.cpp
+	<iostream>
+	"ok.h"
+	<cmath>
+	<string>
+
+1628686905 source:c:\users\anyalogbu henry\desktop\mathequationsolver\discriminantequation.cpp
+	<iostream>
+	"ok.h"
+	<cmath>
+	<string>
+
+1628686866 source:c:\users\anyalogbu henry\desktop\mathequationsolver\isoscelestrianglelength.cpp
+	<iostream>
+	<cmath>
+	"ok.h"
+	<string>
+
+1628686930 source:c:\users\anyalogbu henry\desktop\mathequationsolver\isoscelestriangleheight.cpp
+	<iostream>
+	<cmath>
+	"ok.h"
+	<string>
+
+1628764431 source:c:\users\anyalogbu henry\desktop\mathequationsolver\gettingdata.cpp
+	<iostream>
+	"ok.h"
+	<fstream>
+	<string>
+
+1628762313 source:c:\users\anyalogbu henry\desktop\mathequationsolver\numberoflines.cpp
+	<iostream>
+	"ok.h"
+	<fstream>
+	<string>
+
+1628765099 source:c:\users\anyalogbu henry\desktop\mathequationsolver\whatthissoftwarecando.cpp
+	<iostream>
+	"ok.h"
+	<fstream>
+	<string>
+	<stdlib.h>
+
